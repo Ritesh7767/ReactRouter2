@@ -1,0 +1,11 @@
+.parentContainer{
+    display: flex;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+.parentContainer > div{
+    text-align: justify;
+}
+.parentContainer span{
+    margin-right: 1rem;
+}

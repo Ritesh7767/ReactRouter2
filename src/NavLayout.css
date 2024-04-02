@@ -1,0 +1,19 @@
+.NavContainer{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.NavContainer li{
+    width: 7rem;
+    height: 1.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    border: 1px solid black;
+    font-size: large;
+}
+.NavContainer a {
+    text-decoration: none;
+}
